@@ -1,1 +1,1 @@
-# Jervis-Android
+settings.gradle.kts
